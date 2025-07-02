@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am learning MERN stack <br>would love to collaborate in making ideas into projects
+Learning MERN stack <br>would love to collaborate in making ideas into projects
 
 
 ## 🌐 Socials:
